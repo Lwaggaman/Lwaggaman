@@ -23,6 +23,6 @@ Data Analytics
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats from Public Repositories</b>
 
 <a href="http://www.github.com/lwaggaman"><img src="https://github-readme-stats.vercel.app/api?username=lwaggaman&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lwaggaman's GitHub stats" /></a>
