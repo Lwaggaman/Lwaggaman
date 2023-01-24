@@ -23,11 +23,6 @@ Data Analytics
 
 <p align="left"> <a href="https://www.github.com/lwaggaman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/laurawagg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/laura.waggaman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lwaggaman"><img src="https://github-readme-stats.vercel.app/api?username=lwaggaman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lwaggaman's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
@@ -36,3 +31,10 @@ Data Analytics
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/lwaggaman/EDA_Chasing_Drunchies" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lwaggaman&repo=EDA_Chasing_Drunchies&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lwaggaman/LR_Used_Cars" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lwaggaman&repo=LR_Used_Cars&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/lwaggaman"><img src="https://github-readme-stats.vercel.app/api?username=lwaggaman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lwaggaman's GitHub stats" /></a>
